@@ -1,2 +1,3 @@
 # AZ-204
-AZ-204
+
+[Course Index](index.md)
